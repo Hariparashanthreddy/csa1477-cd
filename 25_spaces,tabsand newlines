@@ -50,4 +50,4 @@ while((ch = fgetc(fp)) != EOF){
 fclose(fp);
 return 0;
 }
-Input: 3lex_inp
+
